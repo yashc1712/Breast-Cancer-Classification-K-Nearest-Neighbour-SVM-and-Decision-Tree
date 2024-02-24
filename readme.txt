@@ -1,4 +1,4 @@
-Breast Cancer Classification with K-Nearest Neighbors
+Breast Cancer Classification with K-Nearest Neighbors and Support Vector Machine
 This project implements a K-Nearest Neighbors (KNN) classifier to predict whether a breast tumor is benign or malignant based on various features extracted from diagnostic images. The classifier is trained on the Wisconsin Breast Cancer dataset, which contains measurements from digitized images of breast mass samples.
 
 Overview
