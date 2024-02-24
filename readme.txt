@@ -1,8 +1,5 @@
-Breast Cancer Classification with K-Nearest Neighbors and Support Vector Machine
-This project implements a K-Nearest Neighbors (KNN) classifier to predict whether a breast tumor is benign or malignant based on various features extracted from diagnostic images. The classifier is trained on the Wisconsin Breast Cancer dataset, which contains measurements from digitized images of breast mass samples.
-
-Overview
-The k_nearest_neigbour.py script included in this repository demonstrates the implementation of a KNN classifier using scikit-learn. It loads the breast cancer dataset, splits it into training and testing sets, and trains the classifier to predict tumor labels. The accuracy score of the classifier on the test set is printed to evaluate its performance.
+Breast Cancer Classification with K-Nearest Neighbors and Support Vector Machine and Decision Tree
+This project implements a K-Nearest Neighbors (KNN) classifier, Support Vector Machine and Decision Tree to predict whether a breast tumor is benign or malignant based on various features extracted from diagnostic images. The classifier is trained on the Wisconsin Breast Cancer dataset, which contains measurements from digitized images of breast mass samples.
 
 Requirements
 Python 3.x
